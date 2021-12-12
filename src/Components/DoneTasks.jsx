@@ -24,10 +24,11 @@ import { observer } from "mobx-react-lite";
     };
   
     const doneTasks = useStore().TaskStore.doneTasks;
+    const tasks = useStore().TaskStore.tasks;
   
     return (
       <>
-        {doneTasks.length > 0 ? (
+        {tasks.length > 0 ? (
           <Box sx={{ marginTop: 5 }}>
             <BlueButton onClick={openDialog}>View Done Tasks</BlueButton>
   
