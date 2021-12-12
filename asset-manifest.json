@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-mobx-taskmanager/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/react-mobx-taskmanager/static/js/main.ad2ae663.chunk.js",
+    "main.js.map": "/react-mobx-taskmanager/static/js/main.ad2ae663.chunk.js.map",
+    "runtime-main.js": "/react-mobx-taskmanager/static/js/runtime-main.3e82b079.js",
+    "runtime-main.js.map": "/react-mobx-taskmanager/static/js/runtime-main.3e82b079.js.map",
+    "static/js/2.d3eb276e.chunk.js": "/react-mobx-taskmanager/static/js/2.d3eb276e.chunk.js",
+    "static/js/2.d3eb276e.chunk.js.map": "/react-mobx-taskmanager/static/js/2.d3eb276e.chunk.js.map",
+    "static/js/3.f3de262d.chunk.js": "/react-mobx-taskmanager/static/js/3.f3de262d.chunk.js",
+    "static/js/3.f3de262d.chunk.js.map": "/react-mobx-taskmanager/static/js/3.f3de262d.chunk.js.map",
+    "index.html": "/react-mobx-taskmanager/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/react-mobx-taskmanager/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.d3eb276e.chunk.js.LICENSE.txt": "/react-mobx-taskmanager/static/js/2.d3eb276e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3e82b079.js",
+    "static/js/2.d3eb276e.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.ad2ae663.chunk.js"
+  ]
+}
